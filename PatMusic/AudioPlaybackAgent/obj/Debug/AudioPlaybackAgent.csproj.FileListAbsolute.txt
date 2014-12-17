@@ -1,0 +1,4 @@
+C:\Users\Peter\Downloads\Background sensors for Windows Phone 8.1 sample\AudioPlaybackAgent\Bin\Debug\AudioPlaybackAgent.dll
+C:\Users\Peter\Downloads\Background sensors for Windows Phone 8.1 sample\AudioPlaybackAgent\Bin\Debug\AudioPlaybackAgent.pdb
+C:\Users\Peter\Downloads\Background sensors for Windows Phone 8.1 sample\AudioPlaybackAgent\obj\Debug\AudioPlaybackAgent.dll
+C:\Users\Peter\Downloads\Background sensors for Windows Phone 8.1 sample\AudioPlaybackAgent\obj\Debug\AudioPlaybackAgent.pdb
